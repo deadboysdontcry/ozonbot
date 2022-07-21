@@ -1,1 +1,2 @@
-# ozonbot
+# cool-notes-bot
+
